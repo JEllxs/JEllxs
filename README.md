@@ -1,0 +1,3 @@
+- In training software engineer
+- College Student
+- Languages: Python, Java, C#
